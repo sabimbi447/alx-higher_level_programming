@@ -10,4 +10,3 @@ class MyList(list):
         this = self[:]
         this.sort()
         print(this)
-        
